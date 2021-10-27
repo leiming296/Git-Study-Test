@@ -1,10 +1,6 @@
-"load models"
 
-"ming lei test"
+"machine learning working now"
+"lei ming starting"
 
 
-# "player 1 "
 
-"player 3"
-
-"palyer 2"
