@@ -2,4 +2,6 @@
 
 "ming lei test"
 
-"player 1 "
+# "player 1 "
+
+"player 3"
