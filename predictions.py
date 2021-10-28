@@ -10,7 +10,6 @@ def master_function(m):
     print('master commit 2')
     return m 
 
-
 def m3_data(n):
     print('from bug 2')
     print('commit 2 bug2')
@@ -32,6 +31,21 @@ def m6_function(b):
     print('from master')
     print('problme solved here, please merge')
     return b
+
+def ml_predictions(n):
+    n = n + 1
+    print('from bug2')
+    print('from commit 2, from bug 2 branch')
+    return n
+
+def ml_data(m):
+    print('from commit 2, from bug 2 branch')
+    return m
+
+def m3_data(n):
+    print('from bug 2, from bug 2 branch')
+    return n
+
 
 def m7_function(c):
     print('from master function, change a little from laptop')
