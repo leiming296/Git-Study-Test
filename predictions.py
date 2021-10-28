@@ -9,4 +9,5 @@
 
 def master_function(m):
     print ('from latop master')
+    print('master commit 2')
     return m 
