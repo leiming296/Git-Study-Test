@@ -10,12 +10,12 @@ def master_function(m):
     print('master commit 2')
     return m 
 
-
-def m3_data(n):
-    print('from bug 2')
-    print('commit 2 bug2')
-    print('bug fix from develop ')
-    return n
+# remove from commit 1 master 
+# def m3_data(n):
+#     print('from bug 2')
+#     print('commit 2 bug2')
+#     print('bug fix from develop ')
+#     return n
 
 def m4_data(m):
     print('from laptop')
