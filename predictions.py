@@ -13,8 +13,10 @@ def ml_predictions(n):
 
 def ml_data(m):
     print(m, 'from bug 1')
+    print('commit 2')
     return m
 
 def m2_data(m, n):
     print(m+n, 'from bug 1')
+    print('commit 2')
     return m +n
