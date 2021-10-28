@@ -10,35 +10,6 @@ def master_function(m):
     print('master commit 2')
     return m 
 
-##### remove fynctions from master
-
-# def ml_predictions(n):
-#     n = n + 1
-#     print('from bug2')
-#     print('bug2 from commit 2')
-#     return n
-#
-# def ml_data(m):
-#     print(m, 'from bug 1')
-#     print('bug1 commit 2')
-#
-# def ml_predictions(n):
-#     n = n + 1
-#     print('from bug2')
-#     print('bug2 from commit 2')
-#     return n
-#
-# def ml_data(m):
-#     print(m, 'from bug 1')
-#     print('bug1 commit 2')
-#     print('bug fix from develop')
-#     return m
-#
-# def m2_data(m, n):
-#     print(m+n, 'from bug 1')
-#     print('bug1 commit 2')
-#     print('bug fix from develop')
-#     return m +n
 
 def m3_data(n):
     print('from bug 2')
