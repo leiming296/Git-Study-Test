@@ -7,3 +7,6 @@
 
 
 
+def master_function(m):
+    print ('from latop master')
+    return m 
