@@ -21,3 +21,6 @@ def m3_data(n):
     print('from bug 2, from bug 2 branch')
     return n
 
+def mx_data(n):
+    print('max here')
+    return n 
