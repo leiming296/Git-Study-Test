@@ -9,6 +9,7 @@
 def master_function(m):
     print ('from latop master')
     print('master commit 2')
+    print('this problem from pc develop')
     return m 
 
 ##### remove fynctions from master
