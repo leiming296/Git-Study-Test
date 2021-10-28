@@ -59,4 +59,5 @@ def m5_data(m):
 
 def m6_function(b):
     print('from master')
+    print('problme solved here, please merge')
     return b
