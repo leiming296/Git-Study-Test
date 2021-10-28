@@ -16,17 +16,20 @@ def ml_predictions(n):
 def ml_data(m):
     print(m, 'from bug 1')
     print('bug1 commit 2')
+    print('bug fix from develop')
     return m
 
 def m2_data(m, n):
     print(m+n, 'from bug 1')
     print('bug1 commit 2')
+    print('bug fix from develop')
     return m +n
 
 
 def m3_data(n):
     print('from bug 2')
     print('commit 2 bug2')
+    print('bug fix from develop ')
     return n
 
 def m4_data(m):
