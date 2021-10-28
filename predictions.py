@@ -12,4 +12,9 @@ def ml_predictions(n):
     return n
 
 def ml_data(m):
-    return m 
+    print(m, 'from bug 1')
+    return m
+
+def m2_data(m, n):
+    print(m+n, 'from bug 1')
+    return m +n
