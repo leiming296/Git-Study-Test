@@ -17,17 +17,18 @@ def master_function(m):
 #     print('bug fix from develop ')
 #     return n
 
-### remove from commt 2 master 
-def m4_data(m):
-    print('from laptop')
-    print('fix problem')
-    print('problem m4 fix from laptop')
-    return m
+### remove from commt 2 master
+# def m4_data(m):
+#     print('from laptop')
+#     print('fix problem')
+#     print('problem m4 fix from laptop')
+#     return m
 
-def m5_data(m):
-    print('from PC')
-    print('problem fix from master')
-    return m
+#### remove from commit 3 master
+# def m5_data(m):
+#     print('from PC')
+#     print('problem fix from master')
+#     return m
 
 def m6_function(b):
     print('from master')
