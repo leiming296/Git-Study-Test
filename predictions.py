@@ -29,3 +29,6 @@ def m3_data(n):
     print('commit 2 bug2')
     return n
 
+def m4_data(m):
+    print('from laptop')]
+    return m
