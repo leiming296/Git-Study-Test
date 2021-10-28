@@ -34,5 +34,6 @@ def m6_function(b):
     return b
 
 def m7_function(c):
-    print('from master function')
+    print('from master function, change a little from laptop')
+    print ('this function from latop maybe wrong')
     return c 
