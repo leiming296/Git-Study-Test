@@ -41,7 +41,6 @@ def master_function(m):
 #     print('bug fix from develop')
 #     return m +n
 
-
 def m3_data(n):
     print('from bug 2')
     print('commit 2 bug2')
@@ -63,3 +62,7 @@ def m6_function(b):
     print('from master')
     print('problme solved here, please merge')
     return b
+
+def m7_function(c):
+    print('from master function')
+    return c 
