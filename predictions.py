@@ -33,3 +33,7 @@ def m4_data(m):
     print('from laptop')
     print('fix problem')
     return m
+
+def m5_data(m):
+    print('from PC')
+    return m3
