@@ -7,3 +7,6 @@
 
 
 
+def ml_predictions(n):
+    n = n + 1
+    return n 
