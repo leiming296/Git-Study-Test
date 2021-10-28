@@ -57,4 +57,6 @@ def m5_data(m):
     print('problem fix from master')
     return m
 
-
+def m6_function(b):
+    print('from master')
+    return b
