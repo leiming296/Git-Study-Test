@@ -43,3 +43,7 @@ def m8_function(c):
     print('from develop franch')
     print('commit 2 from develop')
     return c
+
+def stash_test(m):
+    prnt("from laptop stach test")
+    return m 
