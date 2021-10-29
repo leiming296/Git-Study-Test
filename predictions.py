@@ -11,23 +11,25 @@ def master_function(m):
     print('this problem from pc develop')
     return m 
 
+######  remove below functions from PC develop
 
-def m3_data(n):
-    print('from bug 2')
-    print('commit 2 bug2')
-    print('bug fix from develop ')
-    return n
+# def m3_data(n):
+#     print('from bug 2')
+#     print('commit 2 bug2')
+#     print('bug fix from develop ')
+#     return n
+#
+# def m4_data(m):
+#     print('from laptop')
+#     print('fix problem')
+#     print('problem m4 fix from laptop')
+#     return m
+#
+# def m5_data(m):
+#     print('from PC')
+#     print('problem fix from master')
+#     return m
 
-def m4_data(m):
-    print('from laptop')
-    print('fix problem')
-    print('problem m4 fix from laptop')
-    return m
-
-def m5_data(m):
-    print('from PC')
-    print('problem fix from master')
-    return m
 
 def m6_function(b):
     print('from master')
